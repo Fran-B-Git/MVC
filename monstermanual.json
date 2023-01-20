@@ -1,0 +1,20 @@
+{
+    "Dragon": {
+        "name": "Dragon",
+        "color": "Red",
+        "age": "2540",
+        "price": "68000 gold"
+    },
+    "Drake": {
+        "name": "Drake",
+        "color": "Green",
+        "age": "250",
+        "price": "680 gold"
+    },
+    "Ghost": {
+        "name": "Ghost",
+        "color": "Translucent Blue",
+        "age": "???",
+        "price": "150000 gold"
+    }
+}
